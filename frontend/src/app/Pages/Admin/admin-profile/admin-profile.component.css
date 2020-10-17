@@ -38,7 +38,7 @@ li {
 .button {
   
   border: none;
-  color: red;
+  /* color: red; */
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
@@ -50,7 +50,7 @@ li {
 }
 .user button{
     border: none;
-    background-color: red;
+    /* background-color: red; */
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -88,7 +88,7 @@ a label {
   text-align: center;
   border: gray;
   border-radius: 10px;
-  background-color: #fd4608;
+  background-color: #04579b;
   color: #fff;
   cursor: pointer;
   font-weight: bold;
